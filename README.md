@@ -1,6 +1,6 @@
 # Classification of Imagined 3D Shapes Using a Brain-Computer Interface
 Ian Jackson, Michael Pitts, Eitan Frachtenberg  
-  Department of Computer Science & Psychology, Reed College, Portland, OR
+  Dept. of Computer Science, Dept. of Psychology, Reed College, Portland, OR
 
 ## Abstract (Excerpt)
 
