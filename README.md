@@ -4,7 +4,7 @@ Ian Jackson, Michael Pitts, Eitan Frachtenberg
 
 ## Abstract (Excerpt)
 
-The present study, which is a brain-computer interface for
+The present study utilizes a brain-computer interface for
 classifying shape mental imagery, a subject on which there is little existing
 research. The goal of the study is to replicate the classification accuracy results of
 Esfahani & Sundararajan, particularly Experiment 1.2, in which researchers were
